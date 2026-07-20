@@ -1,2 +1,3 @@
 # demo-11baa7
-Auto generated demo site for 川村動物病院
+
+AIによって自動生成された 川村動物病院 様向けのデモサイトです。
